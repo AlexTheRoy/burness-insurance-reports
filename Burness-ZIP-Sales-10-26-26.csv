@@ -1,0 +1,335 @@
+zip,state,county,city,leads,auto_campaign_leads,auto_leads_product_leads,quoted,sold,not_quoted,quote_rate,sale_rate
+75154,TX,Ellis,Red Oak,4,3,1,2,1,2,50.0%,25.0%
+75702,TX,Smith,Tyler,2,1,1,1,1,1,50.0%,50.0%
+76537,TX,Williamson,Jarrell,2,1,1,1,1,1,50.0%,50.0%
+78602,TX,Bastrop,Bastrop,2,2,0,1,1,1,50.0%,50.0%
+75494,TX,Wood,Winnsboro,1,1,0,1,1,0,100.0%,100.0%
+75605,TX,Gregg,Longview,1,1,0,1,1,0,100.0%,100.0%
+76667,TX,Limestone,Mexia,1,0,1,1,1,0,100.0%,100.0%
+76904,TX,Tom Green,San Angelo,1,0,1,1,1,0,100.0%,100.0%
+78244,TX,Bexar,San Antonio,6,2,4,2,0,4,33.3%,0.0%
+75104,TX,Dallas,Cedar Hill,4,1,3,2,0,2,50.0%,0.0%
+78245,TX,Bexar,San Antonio,4,1,3,2,0,2,50.0%,0.0%
+75551,TX,Cass,Atlanta,3,2,1,2,0,1,66.7%,0.0%
+77016,TX,Harris,Houston,3,0,3,2,0,1,66.7%,0.0%
+78660,TX,Travis,Pflugerville,3,1,2,2,0,1,66.7%,0.0%
+79701,TX,Midland,Midland,3,1,2,2,0,1,66.7%,0.0%
+75237,TX,Dallas,Dallas,2,1,1,2,0,0,100.0%,0.0%
+78221,TX,Bexar,San Antonio,2,2,0,2,0,0,100.0%,0.0%
+78724,TX,Travis,Austin,2,1,1,2,0,0,100.0%,0.0%
+76543,TX,Bell,Killeen,4,2,2,1,0,3,25.0%,0.0%
+78219,TX,Bexar,San Antonio,4,4,0,1,0,3,25.0%,0.0%
+76002,TX,Tarrant,Arlington,3,2,1,1,0,2,33.3%,0.0%
+76112,TX,Tarrant,Fort Worth,3,0,3,1,0,2,33.3%,0.0%
+78253,TX,Bexar,San Antonio,3,1,2,1,0,2,33.3%,0.0%
+75211,TX,Dallas,Dallas,2,2,0,1,0,1,50.0%,0.0%
+75233,TX,Dallas,Dallas,2,2,0,1,0,1,50.0%,0.0%
+76137,TX,Tarrant,Fort Worth,2,1,1,1,0,1,50.0%,0.0%
+76140,TX,Tarrant,Fort Worth,2,2,0,1,0,1,50.0%,0.0%
+76542,TX,Bell,Killeen,2,2,0,1,0,1,50.0%,0.0%
+76710,TX,Mclennan,Waco,2,1,1,1,0,1,50.0%,0.0%
+77357,TX,Montgomery,New Caney,2,0,2,1,0,1,50.0%,0.0%
+77535,TX,Liberty,Dayton,2,2,0,1,0,1,50.0%,0.0%
+77573,TX,Galveston,League City,2,1,1,1,0,1,50.0%,0.0%
+79336,TX,Hockley,Levelland,2,1,1,1,0,1,50.0%,0.0%
+79401,TX,Lubbock,Lubbock,2,1,1,1,0,1,50.0%,0.0%
+79762,TX,Ector,Odessa,2,1,1,1,0,1,50.0%,0.0%
+79903,TX,El Paso,El Paso,2,2,0,1,0,1,50.0%,0.0%
+79915,TX,El Paso,El Paso,2,0,2,1,0,1,50.0%,0.0%
+79934,TX,El Paso,El Paso,2,1,1,1,0,1,50.0%,0.0%
+75032,TX,Rockwall,Rockwall,1,1,0,1,0,0,100.0%,0.0%
+75040,TX,Dallas,Garland,1,1,0,1,0,0,100.0%,0.0%
+75069,TX,Collin,Mckinney,1,1,0,1,0,0,100.0%,0.0%
+75075,TX,Collin,Plano,1,0,1,1,0,0,100.0%,0.0%
+75172,TX,Dallas,Wilmer,1,0,1,1,0,0,100.0%,0.0%
+75206,TX,Dallas,Dallas,1,0,1,1,0,0,100.0%,0.0%
+75462,TX,Lamar,Reno,1,1,0,1,0,0,100.0%,0.0%
+75501,TX,Bowie,Texarkana,1,1,0,1,0,0,100.0%,0.0%
+75650,TX,Harrison,Hallsville,1,1,0,1,0,0,100.0%,0.0%
+75790,TX,Van Zandt,Van,1,1,0,1,0,0,100.0%,0.0%
+76028,TX,Johnson,Burleson,1,1,0,1,0,0,100.0%,0.0%
+76058,TX,Johnson,Joshua,1,1,0,1,0,0,100.0%,0.0%
+76308,TX,Wichita,Wichita Falls,1,1,0,1,0,0,100.0%,0.0%
+76401,TX,Erath,Stephenville,1,1,0,1,0,0,100.0%,0.0%
+76446,TX,Erath,Dublin,1,0,1,1,0,0,100.0%,0.0%
+76504,TX,Bell,Temple,1,1,0,1,0,0,100.0%,0.0%
+76705,TX,Mclennan,Waco,1,0,1,1,0,0,100.0%,0.0%
+76707,TX,Mclennan,Midland 79707,1,1,0,1,0,0,100.0%,0.0%
+77002,TX,Harris,Houston,1,0,1,1,0,0,100.0%,0.0%
+77026,TX,Harris,Houston,1,0,1,1,0,0,100.0%,0.0%
+77058,TX,Harris,Houston,1,0,1,1,0,0,100.0%,0.0%
+77378,TX,Montgomery,Willis,1,0,1,1,0,0,100.0%,0.0%
+77406,TX,Fort Bend,Richmond,1,0,1,1,0,0,100.0%,0.0%
+77541,TX,Brazoria,Freeport,1,1,0,1,0,0,100.0%,0.0%
+78121,TX,Wilson,La Vernia,1,1,0,1,0,0,100.0%,0.0%
+78204,TX,Bexar,San Antonio,1,1,0,1,0,0,100.0%,0.0%
+78207,TX,Bexar,San Antonio,1,1,0,1,0,0,100.0%,0.0%
+78220,TX,Bexar,San Antonio,1,0,1,1,0,0,100.0%,0.0%
+78249,TX,Bexar,San Antonio,1,0,1,1,0,0,100.0%,0.0%
+78264,TX,Bexar,San Antonio,1,1,0,1,0,0,100.0%,0.0%
+78852,TX,Maverick,Eagle Pass,1,1,0,1,0,0,100.0%,0.0%
+79364,TX,Lubbock,Slaton,1,1,0,1,0,0,100.0%,0.0%
+75050,TX,Dallas,Grand Prairie,4,2,2,0,0,4,0.0%,0.0%
+75052,TX,Dallas,Grand Prairie,3,1,2,0,0,3,0.0%,0.0%
+75126,TX,Kaufman,Forney,3,1,2,0,0,3,0.0%,0.0%
+75156,TX,Henderson,Mabank,3,3,0,0,0,3,0.0%,0.0%
+75216,TX,Dallas,Dallas,3,0,3,0,0,3,0.0%,0.0%
+75602,TX,Gregg,Longview,3,1,2,0,0,3,0.0%,0.0%
+75751,TX,Henderson,Athens,3,1,2,0,0,3,0.0%,0.0%
+75803,TX,Anderson,Palestine,3,2,1,0,0,3,0.0%,0.0%
+75904,TX,Angelina,Lufkin,3,1,2,0,0,3,0.0%,0.0%
+77040,TX,Harris,Houston,3,0,3,0,0,3,0.0%,0.0%
+77042,TX,Harris,Houston,3,0,3,0,0,3,0.0%,0.0%
+77082,TX,Harris,Houston,3,0,3,0,0,3,0.0%,0.0%
+77659,TX,Hardin,Sour Lake,3,0,3,0,0,3,0.0%,0.0%
+77708,TX,Jefferson,Beaumont,3,1,2,0,0,3,0.0%,0.0%
+78064,TX,Atascosa,Pleasanton,3,1,2,0,0,3,0.0%,0.0%
+78254,TX,Bexar,San Antonio,3,2,1,0,0,3,0.0%,0.0%
+79764,TX,Ector,Odessa,3,2,1,0,0,3,0.0%,0.0%
+79928,TX,El Paso,El Paso,3,2,1,0,0,3,0.0%,0.0%
+75056,TX,Denton,The Colony,2,1,1,0,0,2,0.0%,0.0%
+75061,TX,Dallas,Irving,2,1,1,0,0,2,0.0%,0.0%
+75071,TX,Collin,Mckinney,2,1,1,0,0,2,0.0%,0.0%
+75076,TX,Grayson,Pottsboro,2,1,1,0,0,2,0.0%,0.0%
+75215,TX,Dallas,Dallas,2,0,2,0,0,2,0.0%,0.0%
+76120,TX,Tarrant,Fort Worth,2,1,1,0,0,2,0.0%,0.0%
+76179,TX,Tarrant,Fort Worth,2,1,1,0,0,2,0.0%,0.0%
+76903,TX,Tom Green,San Angelo,2,1,1,0,0,2,0.0%,0.0%
+77048,TX,Harris,Houston,2,0,2,0,0,2,0.0%,0.0%
+77084,TX,Harris,Houston,2,0,2,0,0,2,0.0%,0.0%
+77088,TX,Harris,Houston,2,0,2,0,0,2,0.0%,0.0%
+77095,TX,Harris,Houston,2,0,2,0,0,2,0.0%,0.0%
+77099,TX,Harris,Houston,2,0,2,0,0,2,0.0%,0.0%
+77338,TX,Harris,Humble,2,0,2,0,0,2,0.0%,0.0%
+77346,TX,Harris,Montgomery,2,0,2,0,0,2,0.0%,0.0%
+77407,TX,Fort Bend,Richmond,2,0,2,0,0,2,0.0%,0.0%
+77449,TX,Harris,Houston,2,0,2,0,0,2,0.0%,0.0%
+77478,TX,Fort Bend,Sugar Land,2,0,2,0,0,2,0.0%,0.0%
+77511,TX,Brazoria,Alvin,2,0,2,0,0,2,0.0%,0.0%
+77523,TX,Chambers,Mont Belvieu,2,0,2,0,0,2,0.0%,0.0%
+77584,TX,Brazoria,Pearland,2,1,1,0,0,2,0.0%,0.0%
+77703,TX,Jefferson,Beaumont,2,2,0,0,0,2,0.0%,0.0%
+77705,TX,Jefferson,Beaumont,2,0,2,0,0,2,0.0%,0.0%
+77803,TX,Brazos,Bryan,2,2,0,0,0,2,0.0%,0.0%
+78155,TX,Guadalupe,Seguin,2,2,0,0,0,2,0.0%,0.0%
+78210,TX,Bexar,San Antonio,2,0,2,0,0,2,0.0%,0.0%
+78217,TX,Bexar,San Antonio,2,1,1,0,0,2,0.0%,0.0%
+78224,TX,Bexar,San Antonio,2,0,2,0,0,2,0.0%,0.0%
+78542,TX,Hidalgo,Edinburg,2,1,1,0,0,2,0.0%,0.0%
+78666,TX,Hays,San Marcos,2,0,2,0,0,2,0.0%,0.0%
+79415,TX,Lubbock,Lubbock,2,0,2,0,0,2,0.0%,0.0%
+79936,TX,El Paso,El Paso,2,1,1,0,0,2,0.0%,0.0%
+75023,TX,Collin,Plano,1,1,0,0,0,1,0.0%,0.0%
+75028,TX,Denton,Flower Mound,1,1,0,0,0,1,0.0%,0.0%
+75043,TX,Dallas,Garland,1,1,0,0,0,1,0.0%,0.0%
+75048,TX,Dallas,Sachse,1,1,0,0,0,1,0.0%,0.0%
+75051,TX,Dallas,Grand Prairie,1,0,1,0,0,1,0.0%,0.0%
+75067,TX,Denton,Lewisville,1,1,0,0,0,1,0.0%,0.0%
+75070,TX,Collin,Mckinney,1,1,0,0,0,1,0.0%,0.0%
+75077,TX,Denton,Lewisville,1,1,0,0,0,1,0.0%,0.0%
+75078,TX,Collin,Prosper,1,0,1,0,0,1,0.0%,0.0%
+75089,TX,Dallas,Rowlett,1,1,0,0,0,1,0.0%,0.0%
+75098,TX,Collin,Wylie,1,1,0,0,0,1,0.0%,0.0%
+75115,TX,Dallas,Desoto,1,0,1,0,0,1,0.0%,0.0%
+75116,TX,Dallas,Duncanville,1,1,0,0,0,1,0.0%,0.0%
+75119,TX,Ellis,Ennis,1,0,1,0,0,1,0.0%,0.0%
+75134,TX,Dallas,Lancaster,1,0,1,0,0,1,0.0%,0.0%
+75146,TX,Dallas,Lancaster,1,0,1,0,0,1,0.0%,0.0%
+75149,TX,Dallas,Mesquite,1,1,0,0,0,1,0.0%,0.0%
+75150,TX,Dallas,Mesquite,1,0,1,0,0,1,0.0%,0.0%
+75160,TX,Kaufman,Terrell,1,0,1,0,0,1,0.0%,0.0%
+75161,TX,Kaufman,Terrell,1,0,1,0,0,1,0.0%,0.0%
+75165,TX,Ellis,Waxahachie,1,1,0,0,0,1,0.0%,0.0%
+75167,TX,Ellis,Waxahachie,1,0,1,0,0,1,0.0%,0.0%
+75169,TX,Van Zandt,Wills Point,1,0,1,0,0,1,0.0%,0.0%
+75201,TX,Dallas,Dallas,1,0,1,0,0,1,0.0%,0.0%
+75203,TX,Dallas,Dallas,1,1,0,0,0,1,0.0%,0.0%
+75205,TX,Dallas,Dallas,1,0,1,0,0,1,0.0%,0.0%
+75226,TX,Dallas,Dallas,1,1,0,0,0,1,0.0%,0.0%
+75240,TX,Dallas,Dallas,1,0,1,0,0,1,0.0%,0.0%
+75241,TX,Dallas,Dallas,1,0,1,0,0,1,0.0%,0.0%
+75249,TX,Dallas,Dallas,1,1,0,0,0,1,0.0%,0.0%
+75253,TX,Dallas,Dallas,1,1,0,0,0,1,0.0%,0.0%
+75409,TX,Collin,Anna,1,1,0,0,0,1,0.0%,0.0%
+75418,TX,Fannin,Bonham,1,0,1,0,0,1,0.0%,0.0%
+75442,TX,Collin,Farmersville,1,1,0,0,0,1,0.0%,0.0%
+75455,TX,Titus,Mount Pleasant,1,1,0,0,0,1,0.0%,0.0%
+75460,TX,Lamar,Paris,1,0,1,0,0,1,0.0%,0.0%
+75472,TX,Rains,Point,1,0,1,0,0,1,0.0%,0.0%
+75570,TX,Bowie,New Boston,1,1,0,0,0,1,0.0%,0.0%
+75601,TX,Gregg,Longview,1,1,0,0,0,1,0.0%,0.0%
+75633,TX,Panola,Carthage,1,1,0,0,0,1,0.0%,0.0%
+75638,TX,Morris,Daingerfield,1,0,1,0,0,1,0.0%,0.0%
+75652,TX,Rusk,Chapman,1,1,0,0,0,1,0.0%,0.0%
+75654,TX,Rusk,Henderson,1,1,0,0,0,1,0.0%,0.0%
+75656,TX,Cass,Hughes Springs,1,1,0,0,0,1,0.0%,0.0%
+75662,TX,Gregg,Kilgore,1,0,1,0,0,1,0.0%,0.0%
+75708,TX,Smith,Tyler,1,0,1,0,0,1,0.0%,0.0%
+75762,TX,Smith,Flint,1,0,1,0,0,1,0.0%,0.0%
+75763,TX,Anderson,Frankston,1,1,0,0,0,1,0.0%,0.0%
+75785,TX,Cherokee,Rusk,1,0,1,0,0,1,0.0%,0.0%
+75801,TX,Anderson,Palestine,1,0,1,0,0,1,0.0%,0.0%
+75835,TX,Houston,Crockett,1,0,1,0,0,1,0.0%,0.0%
+75862,TX,Trinity,Trinity,1,1,0,0,0,1,0.0%,0.0%
+75901,TX,Angelina,Lufkin,1,0,1,0,0,1,0.0%,0.0%
+75931,TX,Jasper,Brookeland,1,0,1,0,0,1,0.0%,0.0%
+75941,TX,Angelina,Diboll,1,0,1,0,0,1,0.0%,0.0%
+75949,TX,Angelina,Huntington,1,1,0,0,0,1,0.0%,0.0%
+75951,TX,Jasper,Jasper,1,0,1,0,0,1,0.0%,0.0%
+76010,TX,Tarrant,Arlington,1,1,0,0,0,1,0.0%,0.0%
+76012,TX,Tarrant,Arlington,1,0,1,0,0,1,0.0%,0.0%
+76017,TX,Tarrant,Arlington,1,0,1,0,0,1,0.0%,0.0%
+76018,TX,Tarrant,Arlington,1,1,0,0,0,1,0.0%,0.0%
+76020,TX,Tarrant,Azle,1,1,0,0,0,1,0.0%,0.0%
+76021,TX,Tarrant,Bedford,1,1,0,0,0,1,0.0%,0.0%
+76036,TX,Tarrant,Crowley,1,0,1,0,0,1,0.0%,0.0%
+76048,TX,Hood,Granbury,1,1,0,0,0,1,0.0%,0.0%
+76052,TX,Tarrant,Haslet,1,0,1,0,0,1,0.0%,0.0%
+76071,TX,Wise,Fort Worth,1,0,1,0,0,1,0.0%,0.0%
+76078,TX,Wise,Rhome,1,0,1,0,0,1,0.0%,0.0%
+76103,TX,Tarrant,Fort Worth,1,1,0,0,0,1,0.0%,0.0%
+76106,TX,Tarrant,Fort Worth,1,1,0,0,0,1,0.0%,0.0%
+76107,TX,Tarrant,Fort Worth,1,1,0,0,0,1,0.0%,0.0%
+76114,TX,Tarrant,Fort Worth,1,1,0,0,0,1,0.0%,0.0%
+76131,TX,Tarrant,Fort Worth,1,1,0,0,0,1,0.0%,0.0%
+76132,TX,Tarrant,Fort Worth,1,0,1,0,0,1,0.0%,0.0%
+76134,TX,Tarrant,Fort Worth,1,1,0,0,0,1,0.0%,0.0%
+76180,TX,Tarrant,North Richland Hills,1,0,1,0,0,1,0.0%,0.0%
+76207,TX,Denton,Denton,1,1,0,0,0,1,0.0%,0.0%
+76209,TX,Denton,Denton,1,0,1,0,0,1,0.0%,0.0%
+76210,TX,Denton,Denton,1,0,1,0,0,1,0.0%,0.0%
+76240,TX,Cooke,Gainesville,1,0,1,0,0,1,0.0%,0.0%
+76259,TX,Denton,Ponder,1,1,0,0,0,1,0.0%,0.0%
+76306,TX,Wichita,Wichita Falls,1,1,0,0,0,1,0.0%,0.0%
+76431,TX,Wise,Chico,1,1,0,0,0,1,0.0%,0.0%
+76502,TX,Bell,Temple,1,1,0,0,0,1,0.0%,0.0%
+76513,TX,Bell,Belton,1,1,0,0,0,1,0.0%,0.0%
+76541,TX,Bell,Killeen,1,1,0,0,0,1,0.0%,0.0%
+76549,TX,Bell,Killeen,1,0,1,0,0,1,0.0%,0.0%
+76567,TX,Milam,Rockdale,1,0,1,0,0,1,0.0%,0.0%
+76571,TX,Bell,Salado,1,1,0,0,0,1,0.0%,0.0%
+76643,TX,Mclennan,Hewitt,1,1,0,0,0,1,0.0%,0.0%
+76661,TX,Falls,Marlin,1,0,1,0,0,1,0.0%,0.0%
+76692,TX,Hill,Whitney,1,1,0,0,0,1,0.0%,0.0%
+76704,TX,Mclennan,Waco,1,1,0,0,0,1,0.0%,0.0%
+76711,TX,Mclennan,Waco,1,1,0,0,0,1,0.0%,0.0%
+76801,TX,Brown,Brownwood,1,0,1,0,0,1,0.0%,0.0%
+77041,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77043,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77045,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77055,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77060,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77065,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77069,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77073,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77077,TX,Harris,Houston,1,0,1,0,0,1,0.0%,0.0%
+77302,TX,Montgomery,Conroe,1,0,1,0,0,1,0.0%,0.0%
+77316,TX,Montgomery,Montgomery,1,0,1,0,0,1,0.0%,0.0%
+77355,TX,Montgomery,Magnolia,1,1,0,0,0,1,0.0%,0.0%
+77364,TX,San Jacinto,Pointblank,1,0,1,0,0,1,0.0%,0.0%
+77375,TX,Harris,Tomball,1,0,1,0,0,1,0.0%,0.0%
+77388,TX,Harris,Spring,1,0,1,0,0,1,0.0%,0.0%
+77389,TX,Harris,Spring,1,0,1,0,0,1,0.0%,0.0%
+77396,TX,Harris,Humble,1,0,1,0,0,1,0.0%,0.0%
+77422,TX,Brazoria,Brazoria,1,0,1,0,0,1,0.0%,0.0%
+77429,TX,Harris,Cypress,1,0,1,0,0,1,0.0%,0.0%
+77450,TX,Harris,Katy,1,0,1,0,0,1,0.0%,0.0%
+77459,TX,Fort Bend,Missouri City,1,0,1,0,0,1,0.0%,0.0%
+77488,TX,Wharton,Wharton,1,0,1,0,0,1,0.0%,0.0%
+77493,TX,Harris,Katy,1,0,1,0,0,1,0.0%,0.0%
+77498,TX,Fort Bend,Sugar Land,1,0,1,0,0,1,0.0%,0.0%
+77510,TX,Galveston,Santa Fe,1,1,0,0,0,1,0.0%,0.0%
+77532,TX,Harris,Crosby,1,0,1,0,0,1,0.0%,0.0%
+77545,TX,Fort Bend,Fresno,1,0,1,0,0,1,0.0%,0.0%
+77566,TX,Brazoria,Lake Jackson,1,0,1,0,0,1,0.0%,0.0%
+77581,TX,Brazoria,Pearland,1,0,1,0,0,1,0.0%,0.0%
+77583,TX,Brazoria,Rosharon,1,0,1,0,0,1,0.0%,0.0%
+77591,TX,Galveston,Texas City,1,0,1,0,0,1,0.0%,0.0%
+77611,TX,Orange,Bridge City,1,1,0,0,0,1,0.0%,0.0%
+77630,TX,Orange,Orange,1,0,1,0,0,1,0.0%,0.0%
+77662,TX,Orange,Vidor,1,0,1,0,0,1,0.0%,0.0%
+77701,TX,Jefferson,Beaumont,1,0,1,0,0,1,0.0%,0.0%
+77802,TX,Brazos,Bryan,1,0,1,0,0,1,0.0%,0.0%
+77807,TX,Brazos,Bryan,1,0,1,0,0,1,0.0%,0.0%
+77808,TX,Brazos,Bryan,1,1,0,0,0,1,0.0%,0.0%
+77840,TX,Brazos,College Station,1,1,0,0,0,1,0.0%,0.0%
+77845,TX,Brazos,College Station,1,1,0,0,0,1,0.0%,0.0%
+77864,TX,Madison,Madisonville,1,0,1,0,0,1,0.0%,0.0%
+78003,TX,Bandera,Bandera,1,0,1,0,0,1,0.0%,0.0%
+78006,TX,Kendall,Boerne,1,0,1,0,0,1,0.0%,0.0%
+78028,TX,Kerr,Kerrville,1,1,0,0,0,1,0.0%,0.0%
+78040,TX,Webb,Laredo,1,0,1,0,0,1,0.0%,0.0%
+78043,TX,Webb,Laredo,1,1,0,0,0,1,0.0%,0.0%
+78046,TX,Webb,Laredo,1,0,1,0,0,1,0.0%,0.0%
+78052,TX,Atascosa,Lytle,1,0,1,0,0,1,0.0%,0.0%
+78061,TX,Frio,Pearsall,1,0,1,0,0,1,0.0%,0.0%
+78070,TX,Comal,Spring Branch,1,0,1,0,0,1,0.0%,0.0%
+78101,TX,Bexar,Adkins,1,1,0,0,0,1,0.0%,0.0%
+78108,TX,Guadalupe,Cibolo,1,0,1,0,0,1,0.0%,0.0%
+78109,TX,Bexar,Converse,1,1,0,0,0,1,0.0%,0.0%
+78114,TX,Wilson,Floresville,1,1,0,0,0,1,0.0%,0.0%
+78130,TX,Comal,New Braunfels,1,0,1,0,0,1,0.0%,0.0%
+78148,TX,Bexar,Universal City,1,1,0,0,0,1,0.0%,0.0%
+78212,TX,Bexar,San Antonio,1,0,1,0,0,1,0.0%,0.0%
+78227,TX,Bexar,San Antonio,1,1,0,0,0,1,0.0%,0.0%
+78228,TX,Bexar,San Antonio,1,0,1,0,0,1,0.0%,0.0%
+78230,TX,Bexar,San Antonio,1,1,0,0,0,1,0.0%,0.0%
+78233,TX,Bexar,San Antonio,1,1,0,0,0,1,0.0%,0.0%
+78238,TX,Bexar,San Antonio,1,1,0,0,0,1,0.0%,0.0%
+78242,TX,Bexar,San Antonio,1,1,0,0,0,1,0.0%,0.0%
+78251,TX,Bexar,San Antonio,1,0,1,0,0,1,0.0%,0.0%
+78257,TX,Bexar,San Antonio,1,1,0,0,0,1,0.0%,0.0%
+78363,TX,Kleberg,Kingsville,1,0,1,0,0,1,0.0%,0.0%
+78368,TX,San Patricio,Mathis,1,0,1,0,0,1,0.0%,0.0%
+78410,TX,Nueces,Corpus Christi,1,1,0,0,0,1,0.0%,0.0%
+78413,TX,Nueces,Corpus Christi,1,1,0,0,0,1,0.0%,0.0%
+78415,TX,Nueces,Corpus Christi,1,0,1,0,0,1,0.0%,0.0%
+78504,TX,Hidalgo,Mcallen,1,0,1,0,0,1,0.0%,0.0%
+78521,TX,Cameron,Brownsville,1,0,1,0,0,1,0.0%,0.0%
+78537,TX,Hidalgo,Donna,1,1,0,0,0,1,0.0%,0.0%
+78550,TX,Cameron,Harlingen,1,0,1,0,0,1,0.0%,0.0%
+78582,TX,Starr,Rio Grande City,1,0,1,0,0,1,0.0%,0.0%
+78586,TX,Cameron,San Benito,1,0,1,0,0,1,0.0%,0.0%
+78596,TX,Hidalgo,Weslaco,1,0,1,0,0,1,0.0%,0.0%
+78606,TX,Blanco,Blanco,1,1,0,0,0,1,0.0%,0.0%
+78610,TX,Hays,Buda,1,0,1,0,0,1,0.0%,0.0%
+78621,TX,Bastrop,Elgin,1,1,0,0,0,1,0.0%,0.0%
+78624,TX,Gillespie,Fredericksburg,1,0,1,0,0,1,0.0%,0.0%
+78626,TX,Williamson,Dallas,1,0,1,0,0,1,0.0%,0.0%
+78628,TX,Williamson,Georgetown,1,0,1,0,0,1,0.0%,0.0%
+78634,TX,Williamson,Hutto,1,1,0,0,0,1,0.0%,0.0%
+78640,TX,Hays,Kyle,1,1,0,0,0,1,0.0%,0.0%
+78641,TX,Williamson,Leander,1,1,0,0,0,1,0.0%,0.0%
+78644,TX,Caldwell,Lockhart,1,0,1,0,0,1,0.0%,0.0%
+78664,TX,Williamson,Round Rock,1,0,1,0,0,1,0.0%,0.0%
+78681,TX,Williamson,Round Rock,1,0,1,0,0,1,0.0%,0.0%
+78729,TX,Williamson,Austin,1,0,1,0,0,1,0.0%,0.0%
+78745,TX,Travis,Austin,1,0,1,0,0,1,0.0%,0.0%
+78748,TX,Travis,Austin,1,0,1,0,0,1,0.0%,0.0%
+78754,TX,Travis,Austin,1,1,0,0,0,1,0.0%,0.0%
+78861,TX,Medina,Hondo,1,1,0,0,0,1,0.0%,0.0%
+78957,TX,Bastrop,Smithville,1,1,0,0,0,1,0.0%,0.0%
+79065,TX,Gray,Pampa,1,1,0,0,0,1,0.0%,0.0%
+79104,TX,Potter,Amarillo,1,0,1,0,0,1,0.0%,0.0%
+79106,TX,Potter,Amarillo,1,1,0,0,0,1,0.0%,0.0%
+79119,TX,Randall,Amarillo,1,1,0,0,0,1,0.0%,0.0%
+79316,TX,Terry,Brownfield,1,1,0,0,0,1,0.0%,0.0%
+79403,TX,Lubbock,Lubbock,1,0,1,0,0,1,0.0%,0.0%
+79407,TX,Lubbock,Lubbock,1,0,1,0,0,1,0.0%,0.0%
+79410,TX,Lubbock,Lubbock,1,0,1,0,0,1,0.0%,0.0%
+79412,TX,Lubbock,Lubbock,1,1,0,0,0,1,0.0%,0.0%
+79414,TX,Lubbock,Lubbock,1,1,0,0,0,1,0.0%,0.0%
+79416,TX,Lubbock,Lubbock,1,1,0,0,0,1,0.0%,0.0%
+79423,TX,Lubbock,Lubbock,1,1,0,0,0,1,0.0%,0.0%
+79525,TX,Jones,Hawley,1,0,1,0,0,1,0.0%,0.0%
+79606,TX,Taylor,Abilene,1,1,0,0,0,1,0.0%,0.0%
+79703,TX,Midland,Midland,1,0,1,0,0,1,0.0%,0.0%
+79714,TX,Andrews,Andrews,1,0,1,0,0,1,0.0%,0.0%
+79735,TX,Pecos,Fort Stockton,1,0,1,0,0,1,0.0%,0.0%
+79763,TX,Ector,Odessa,1,0,1,0,0,1,0.0%,0.0%
+79765,TX,Ector,Odessa,1,0,1,0,0,1,0.0%,0.0%
+79849,TX,El Paso,San Elizario,1,0,1,0,0,1,0.0%,0.0%
+79904,TX,El Paso,El Paso,1,1,0,0,0,1,0.0%,0.0%
+79927,TX,El Paso,El Paso,1,0,1,0,0,1,0.0%,0.0%
+79935,TX,El Paso,El Paso,1,1,0,0,0,1,0.0%,0.0%
+79938,TX,El Paso,El Paso,1,1,0,0,0,1,0.0%,0.0%
